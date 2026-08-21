@@ -13,3 +13,7 @@
 * Added Student Credit Hours
 * Added Student Status
 * Added Student Name Improve
+* Added Increase Student Address Capacity
+
+
+
