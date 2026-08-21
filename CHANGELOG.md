@@ -11,4 +11,5 @@
 * Added Student Gender
 * Added Student Semester
 * Added Student Credit Hours
+* Added Student Status
 
