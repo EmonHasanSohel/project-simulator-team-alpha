@@ -9,4 +9,5 @@
 * Added Student Phone Number
 * Added Student Address
 * Added Student Gender
+* Added Student Semester
 
