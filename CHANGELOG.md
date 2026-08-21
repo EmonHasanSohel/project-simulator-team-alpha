@@ -5,4 +5,5 @@
 * Added Student Age
 * Added Student CGPA
 * Added Student Department
+* Added Student Email
 
