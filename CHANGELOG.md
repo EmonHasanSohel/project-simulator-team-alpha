@@ -10,4 +10,5 @@
 * Added Student Address
 * Added Student Gender
 * Added Student Semester
+* Added Student Credit Hours
 
