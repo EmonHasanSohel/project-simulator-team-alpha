@@ -14,6 +14,7 @@
 * Added Student Status
 * Added Student Name Improve
 * Added Increase Student Address Capacity
+* Added Increase Student Phone Number Storage Capacity
 
 
 
