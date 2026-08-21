@@ -4,4 +4,6 @@ struct Student
     char name[50];
     int age;
     float cgpa;
+    char email[100];
+    char address[100];
 };
