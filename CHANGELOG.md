@@ -16,4 +16,5 @@
 * Added Increase Student Address Capacity
 * Added Increase Student Phone Number Storage Capacity
 * Added Rename Student Id field
+* Rename Student Name Field
 
