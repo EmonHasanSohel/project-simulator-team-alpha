@@ -13,4 +13,8 @@
 * Student Name Improve
 * Increase Student Address Capacity
 * Increase Student Phone Number
+* Rename Student Id field
+* Rename Student Name Field
+
+
 

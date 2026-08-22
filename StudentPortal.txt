@@ -1,7 +1,7 @@
 struct Student
 {
-    int id;
-    char name[100];
+    int studentId;
+    char studentName[100];
     int age;
     float cgpa;
     char department[50];
@@ -10,7 +10,7 @@ struct Student
     char address[200];
     char gender[10];
     int semester;
-    int credit_Hours;
-    
-    
+    int creditHours;
+    char status[20];
+     
 };
